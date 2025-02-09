@@ -1,3 +1,5 @@
+
+//My data for portfolio
 import si from "../images/si.png";
 import xairotech from "../images/xairotech.jpeg";
 import vowel from "../images/vowel.png";
